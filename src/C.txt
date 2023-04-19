@@ -1,0 +1,5 @@
+A D
+B D
+C direct
+D D
+E E
